@@ -1,0 +1,2 @@
+# lpthw
+learning python
